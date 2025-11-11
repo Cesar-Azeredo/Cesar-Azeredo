@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JltOMwYmi0VrO/giphy.gif" width="120" alt="Eagle flapping wings" />
+</p>
+
 ### 🎓 Google
 <p align="left">
   <img src="https://github.com/user-attachments/assets/0ec1c250-bd57-4618-afdd-31dc9023f95a" alt="Google AI Essentials" width="120" />
