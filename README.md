@@ -9,6 +9,7 @@
   <img src="https://github.com/user-attachments/assets/b6f0dbcd-21d3-4fbb-8fee-e1fd881dd52f" alt="Responsible AI" width="120" />
   <img src="https://github.com/user-attachments/assets/2153aff9-1074-4de4-8077-c0d42c6c8efc" alt="Introduction to Large Language Models" width="120" />
   <img src="https://github.com/user-attachments/assets/a3eea836-2ec1-4f94-a1c7-3a2de4446b54" alt="Introduction to Vertex AI Studio" width="120" />
+  <img src="https://github.com/user-attachments/assets/4c38eb7e-46ad-4b0f-8b35-47c693126b04" alt="Encoder-Decoder Architecture Google - Badge" width="120" />
 </p>
 
 ### 💠 Databricks
