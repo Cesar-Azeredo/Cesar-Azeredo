@@ -1,4 +1,10 @@
 ## Hi there 👋
+## Hi there 👋
+
+### 🟦 AWS
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/eb174d6c-7e9e-4bc3-ad95-4a4027af4fc8" alt="AWS Badge" width="120" />
+</p>
 
 ### 🎓 Google
 <p align="left">
