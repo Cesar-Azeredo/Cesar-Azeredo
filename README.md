@@ -3,6 +3,11 @@
 ### 🟦 AWS
 <p align="left">
   <img src="https://github.com/user-attachments/assets/eb174d6c-7e9e-4bc3-ad95-4a4027af4fc8" alt="AWS Badge" width="120" />
+  <img src="https://github.com/user-attachments/assets/1dae7be8-f322-43e6-8885-2a79d5ee6b88" alt="AWS Educate Introduction to Cloud 101 - Training Badge" width="120" />
+  <img src="https://github.com/user-attachments/assets/6a5b7a3d-79ee-4fdf-bad5-35233e14f92d" alt="AWS Educate Getting Started with Storage - Training Badge" width="120" />
+
+
+
 </p>
 
 ### 🎓 Google
