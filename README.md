@@ -7,12 +7,6 @@
   <img src="https://github.com/user-attachments/assets/6a5b7a3d-79ee-4fdf-bad5-35233e14f92d" alt="AWS Educate Getting Started with Storage - Training Badge" width="120" />
 </p>
 
-### 💻 HackerRank
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/68e32bd5-a8c0-4dba-9e01-2efab0aeded3" alt="HackerRank Python Badge" width="120" />
-  <img src="https://github.com/user-attachments/assets/aec5f273-c014-4a4e-b546-42a74997b350" alt="HackerRank 30 Days of Code Badge" width="120" />
-</p>
-
 ### 🎓 Google
 <p align="left">
   <img src="https://github.com/user-attachments/assets/0ec1c250-bd57-4618-afdd-31dc9023f95a" alt="Google AI Essentials" width="120" />
