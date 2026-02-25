@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-### 🟦 AWS
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/eb174d6c-7e9e-4bc3-ad95-4a4027af4fc8" alt="AWS Badge" width="120" />
-  <img src="https://github.com/user-attachments/assets/1dae7be8-f322-43e6-8885-2a79d5ee6b88" alt="AWS Educate Introduction to Cloud 101 - Training Badge" width="120" />
-  <img src="https://github.com/user-attachments/assets/6a5b7a3d-79ee-4fdf-bad5-35233e14f92d" alt="AWS Educate Getting Started with Storage - Training Badge" width="120" />
-</p>
-
 ### 💻 HackerRank
 <p align="left">
   <img src="https://github.com/user-attachments/assets/7a836b0c-20c4-4c7f-b5e0-19467fdc1e3a" alt="HackerRank Python Badge" width="120" />
@@ -25,9 +18,21 @@
   <img src="https://github.com/user-attachments/assets/4c38eb7e-46ad-4b0f-8b35-47c693126b04" alt="Encoder-Decoder Architecture Google - Badge" width="120" />
 </p>
 
+### 🧠 IBM
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/8a6cc6ca-13ab-4370-8699-7f35d8094fa4" alt="IBM Badge" width="120" />
+</p>
+
 ### 💠 Databricks
 <p align="left">
   <img src="https://github.com/user-attachments/assets/bfffdc78-c127-4f80-ac2a-cc7e80e3c458" alt="AI Agent Fundamentals" width="120" />
   <img src="https://github.com/user-attachments/assets/8a30aff5-e614-4239-b45d-6db39e3bf950" alt="Databricks Fundamentals" width="120" />
   <img src="https://github.com/user-attachments/assets/6c23e1cf-f4d7-47ce-bb85-4ef58dc506b9" alt="Generative AI Fundamentals" width="120" />
+</p>
+
+### 🟦 AWS
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/eb174d6c-7e9e-4bc3-ad95-4a4027af4fc8" alt="AWS Badge" width="120" />
+  <img src="https://github.com/user-attachments/assets/1dae7be8-f322-43e6-8885-2a79d5ee6b88" alt="AWS Educate Introduction to Cloud 101 - Training Badge" width="120" />
+  <img src="https://github.com/user-attachments/assets/6a5b7a3d-79ee-4fdf-bad5-35233e14f92d" alt="AWS Educate Getting Started with Storage - Training Badge" width="120" />
 </p>
