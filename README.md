@@ -1,81 +1,38 @@
 ## Hi there 👋
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Cloud+%7C+AI+%7C+Data;Building+projects+and+collecting+certifications" />
-
-</div>
-
-<div align="center">
-
 ### 💻 HackerRank
-<a>
-  <img src="https://github.com/user-attachments/assets/7a836b0c-20c4-4c7f-b5e0-19467fdc1e3a" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/fff3497e-e665-47fd-8e24-9164c742392c" width="110" />
-</a>
-
-<br/><br/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7a836b0c-20c4-4c7f-b5e0-19467fdc1e3a" alt="HackerRank Python Badge" width="120" />
+  <img src="https://github.com/user-attachments/assets/fff3497e-e665-47fd-8e24-9164c742392c" alt="HackerRank 30 Days of Code Badge" width="120" />
+</p>
 
 ### 🎓 Google
-<a>
-  <img src="https://github.com/user-attachments/assets/0ec1c250-bd57-4618-afdd-31dc9023f95a" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/2b652d6d-aa4d-4c06-857e-ac5179875e4a" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/632e0cf8-27fc-455e-8a72-c8c0aedab65c" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/3c4cdad9-0cc5-476c-b968-879d7ba9e576" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/b6f0dbcd-21d3-4fbb-8fee-e1fd881dd52f" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/2153aff9-1074-4de4-8077-c0d42c6c8efc" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/a3eea836-2ec1-4f94-a1c7-3a2de4446b54" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/4c38eb7e-46ad-4b0f-8b35-47c693126b04" width="110" />
-</a>
-
-<br/><br/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0ec1c250-bd57-4618-afdd-31dc9023f95a" alt="Google AI Essentials" width="120" />
+  <img src="https://github.com/user-attachments/assets/2b652d6d-aa4d-4c06-857e-ac5179875e4a" alt="Introduction to Generative AI" width="120" />
+  <img src="https://github.com/user-attachments/assets/632e0cf8-27fc-455e-8a72-c8c0aedab65c" alt="Introduction to Image Generation" width="120" />
+  <img src="https://github.com/user-attachments/assets/3c4cdad9-0cc5-476c-b968-879d7ba9e576" alt="Create Image Captioning Models" width="120" />
+  <img src="https://github.com/user-attachments/assets/b6f0dbcd-21d3-4fbb-8fee-e1fd881dd52f" alt="Responsible AI" width="120" />
+  <img src="https://github.com/user-attachments/assets/2153aff9-1074-4de4-8077-c0d42c6c8efc" alt="Introduction to Large Language Models" width="120" />
+  <img src="https://github.com/user-attachments/assets/a3eea836-2ec1-4f94-a1c7-3a2de4446b54" alt="Introduction to Vertex AI Studio" width="120" />
+  <img src="https://github.com/user-attachments/assets/4c38eb7e-46ad-4b0f-8b35-47c693126b04" alt="Encoder-Decoder Architecture Google - Badge" width="120" />
+</p>
 
 ### 🧠 IBM
-<a>
-  <img src="https://github.com/user-attachments/assets/8a6cc6ca-13ab-4370-8699-7f35d8094fa4" width="110" />
-</a>
-
-<br/><br/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/8a6cc6ca-13ab-4370-8699-7f35d8094fa4" alt="IBM Badge" width="120" />
+</p>
 
 ### 💠 Databricks
-<a>
-  <img src="https://github.com/user-attachments/assets/bfffdc78-c127-4f80-ac2a-cc7e80e3c458" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/8a30aff5-e614-4239-b45d-6db39e3bf950" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/6c23e1cf-f4d7-47ce-bb85-4ef58dc506b9" width="110" />
-</a>
-
-<br/><br/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bfffdc78-c127-4f80-ac2a-cc7e80e3c458" alt="AI Agent Fundamentals" width="120" />
+  <img src="https://github.com/user-attachments/assets/8a30aff5-e614-4239-b45d-6db39e3bf950" alt="Databricks Fundamentals" width="120" />
+  <img src="https://github.com/user-attachments/assets/6c23e1cf-f4d7-47ce-bb85-4ef58dc506b9" alt="Generative AI Fundamentals" width="120" />
+</p>
 
 ### 🟦 AWS
-<a>
-  <img src="https://github.com/user-attachments/assets/eb174d6c-7e9e-4bc3-ad95-4a4027af4fc8" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/1dae7be8-f322-43e6-8885-2a79d5ee6b88" width="110" />
-</a>
-<a>
-  <img src="https://github.com/user-attachments/assets/6a5b7a3d-79ee-4fdf-bad5-35233e14f92d" width="110" />
-</a>
-
-</div>
-</div>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/eb174d6c-7e9e-4bc3-ad95-4a4027af4fc8" alt="AWS Badge" width="120" />
+  <img src="https://github.com/user-attachments/assets/1dae7be8-f322-43e6-8885-2a79d5ee6b88" alt="AWS Educate Introduction to Cloud 101 - Training Badge" width="120" />
+  <img src="https://github.com/user-attachments/assets/6a5b7a3d-79ee-4fdf-bad5-35233e14f92d" alt="AWS Educate Getting Started with Storage - Training Badge" width="120" />
+</p>
